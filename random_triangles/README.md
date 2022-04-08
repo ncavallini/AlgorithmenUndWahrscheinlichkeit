@@ -17,4 +17,9 @@ This exercise is worth 100 points.
 
 ## Explanation of the formulas used
 
-To compute the expected value, I used the formula
+* A _triangle_ is a triple of edges `{u,v}, {v,w}, {w,v}` such that these edges do exist in the graph
+Since in our example, each edge exists with probability <img src="https://math.vercel.app?from=p" /> independently of others and that there exists `n choose 3` choiches of three edges out of `n` vertices, the formula for <img src="https://math.vercel.app?from=E(X)" /> follows automatically.
+
+<p align="center">
+<img src="https://math.vercel.app?from=%5Cmathbb%20E%5BX%5D%20%3D%20%5Cbinom%7Bn%7D%7B3%7Dp%5E3" />
+</p>
