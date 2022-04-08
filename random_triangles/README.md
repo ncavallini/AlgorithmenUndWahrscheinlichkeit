@@ -24,6 +24,10 @@ Since in our example, each edge exists with probability <img src="https://math.v
 <img src="https://math.vercel.app?from=%5Cmathbb%20E%5BX%5D%20%3D%20%5Cbinom%7Bn%7D%7B3%7Dp%5E3" />
 </p>
 For the variance, see below:
+
+
 <p align="center">
 <img src="Variance.png" />
 </p>
+
+Source: https://stats.stackexchange.com/questions/338267/distribution-and-variance-of-count-of-triangles-in-random-graph
