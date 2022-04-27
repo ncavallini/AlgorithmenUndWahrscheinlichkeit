@@ -19,4 +19,4 @@ There are two groups of test cases, worth 100 points in total.
 * You should consider looking at the pseudocode for the Rabin-Miller algorithm from the script in order to solve this exercise.
 * You are strongly advised to use Java's built-in class ``` BigInteger```  and its built-in methods.
 * You are strongly advised to use Java's built-in method ```base.modPow(BigInteger exponent, BigInteger modulus)``` for fast modular exponentiation  where `base` is an object of type `BigInteger` .
-You are strictly prohibited to use Java's built-in method `n.isProbablePrime(int certainty)` where `n` is an object of type `BigInteger` for which you want to run the test.
+* You are strictly prohibited to use Java's built-in method `n.isProbablePrime(int certainty)` where `n` is an object of type `BigInteger` for which you want to run the test.
