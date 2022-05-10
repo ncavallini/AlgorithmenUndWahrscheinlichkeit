@@ -22,3 +22,4 @@ There are two groups of test sets, worth 100 points in total.
 
 * For the first group of test sets, worth 50 points, you may assume that there are no connections in the sun (`s = 0`).
 * For the second group of test sets, worth 50 points, there are no additional assumptions.
+* **My code was only awarded 50 points!**
