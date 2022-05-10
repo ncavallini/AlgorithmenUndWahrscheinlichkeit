@@ -4,15 +4,15 @@ class Main {
   private final static int MAX = 500;
     public static void main(String[] args) {
         // Uncomment this line if you want to read from a file
-      In.open("public/test2.in");
-      Out.compareTo("public/test2.out");
+//         In.open("public/test2.in");
+//         Out.compareTo("public/test2.out");
 
         int t = In.readInt();
         for (int i = 0; i < t; i++) {
             testCase();
         }
         
-       In.close();
+//       In.close();
     }
 
     public static void testCase() {
