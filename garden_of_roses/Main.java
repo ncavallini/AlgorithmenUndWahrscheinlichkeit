@@ -20,7 +20,7 @@ class Main {
         int n = In.readInt();
         int m = In.readInt();
         ArrayList<Point> roses = new ArrayList<>(n);
-        ArrayList<Point> weeds = new ArrayList<>(n);
+        ArrayList<Point> weeds = new ArrayList<>(m);
         
         for(int i=0; i<n; i++) {
           roses.add(new Point(In.readInt(), In.readInt()));
